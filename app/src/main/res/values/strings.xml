@@ -82,4 +82,52 @@
     <string name="cbc_help_detail">Click on the \'View in browser\' button to read full article online.\n
     Click on \'Save article\' to save the current news article to view article later on.\n
     Click on \'Remove article\' to remove the current news article.</string>
+    <string name="movie_app_name" translatable="false">Movie Information</string>
+    <string name="movie_continue" translatable="false">Continue</string>
+
+    <string name="movie_please_wait">Please wait…</string>
+
+    <string name="movie_search_btn">Search</string>
+    <string name="movie_favourites_btn">Favourites</string>
+
+    <string name="movie_hint_movie_name">Search for movie…</string>
+    <string name="movie_settings">Settings</string>
+    <string name="movie_help">Help</string>
+    <string name="movie_favorites">Favorites</string>
+    <string name="movie_add_to_string_favorites">Add to favourites</string>
+    <string name="movie_remove_from_favorites">Remove from favourites</string>
+    <string name="movie_got_it">Okay</string>
+
+    <string name="movie_msg_added">Movie added to favourites!</string>
+    <string name="movie_msg_not_added">Unable to add Movie to favourites!</string>
+    <string name="movie_msg_removed">Movie removed from favourites!</string>
+    <string name="movie_msg_not_removed">Unable to remove from favourites!</string>
+
+    <string name="movie_no_of_saved_movies">No. of saved movies:</string>
+    <string name="movie_shortest_movie_runtime">Shortest movie runtime:</string>
+    <string name="movie_average_movie_runtime">Average movie runtime:</string>
+    <string name="movie_longest_movie_runtime">Longest movie runtime:</string>
+
+    <string name="movie_min">min</string>
+    <string name="movie_statistics">Statistics</string>
+    <string name="movie_movieDetails">Movie details</string>
+    <string name="movie_genre">Genre</string>
+    <string name="movie_imdb_rating">IMDb Rating</string>
+    <string name="movie_language">Language</string>
+    <string name="movie_plot">Plot</string>
+    <string name="movie_runtime">Runtime</string>
+    <string name="movie_country">Country</string>
+    <string name="movie_ok">OK</string>
+    <string name="movie_app_help_home">
+        Click on the \'Search\' button to get search for a movie.
+        Click on the movie title to get more information.
+        Click on the \'Favourites\' button to view saved movies.
+    </string>
+    <string name="movie_app_help_detail">
+        You can view all the information about a movie, to save movie information offline
+        click on \'Add to favourites\'.
+        To remove the movie information offline, click on \'Remove from favourites\'.
+    </string>
+
+    <string name="movie_none_saved_msg">Add movies into favourites to view statistics!</string>
 </resources>
