@@ -7,6 +7,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.Toolbar;
 
+import com.prog.gui.guiprogramming.cbc_news_reader.CBCMainActivity;
 import com.prog.gui.guiprogramming.food_nut_db.FoodMainActivity;
 
 /**
@@ -42,7 +43,8 @@ public class MainActivity extends Activity {
         btnCBCNewsApp.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-
+                Intent intent = new Intent(MainActivity.this, CBCMainActivity.class);
+                startActivity(intent);
             }
         });
 
