@@ -51,6 +51,20 @@
             android:name=".cbc_news_reader.CBCStatsActivity"
             android:label="Statistics"
             android:screenOrientation="portrait" />
+        <activity
+            android:name=".movie_info.MovieMainActivity"
+            android:label="@string/movie_app_name" />
+        <activity
+            android:name=".movie_info.MovieFavActivity"
+            android:label="@string/movie_app_name" />
+        <activity
+            android:name=".movie_info.MovieDetailActivity"
+            android:label="Movie details"
+            android:parentActivityName=".movie_info.MovieMainActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".movie_info.MovieStatisticsActivity"
+            android:label="Statistics" />
     </application>
 
 </manifest>
