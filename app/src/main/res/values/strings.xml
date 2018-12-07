@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name" translatable="false">GUI programming</string>
+    <string name="food_app_name" translatable="false">Food Nutrition DB</string>
+
+    <string name="food_app_please_wait">Please wait…</string>
+    <string name="food_search_food">Enter ingredient name…</string>
+
+    <string name="food_search_btn">Search</string>
+    <string name="food_fav_btn">Favourites</string>
+
+    <string name="food_add_to_string_favorites">Add to favorites</string>
+    <string name="food_remove_from_favorites">Remove from favorites</string>
+
+    <string name="food_msg_added">Ingredient added to favorites!</string>
+    <string name="food_msg_not_added">Failed to add ingredient to favorites!</string>
+    <string name="food_msg_removed">Failed removed from favorites!</string>
+    <string name="food_msg_not_removed">Unable to remove ingredient from favorites!</string>
+
+    <string name="food_none_saved_msg">Add ingredients to favorites to view statistics!</string>
+
+    <string name="food_statistics">Statistics</string>
+    <string name="food_help">Help</string>
+    <string name="food_energy">Energy</string>>
+    <string name="food_enter_tag_to_set">Enter TAG to set</string>
+    <string name="food_cancel">Cancel</string>
+    <string name="food_ok">OK</string>
+    <string name="food_total_data">Total saved ingredients:</string>
+    <string name="food_total_calories">Total calories:</string>
+    <string name="food_minimum_calories">Minimum calories:</string>
+    <string name="food_average_calories">Average calories:</string>
+    <string name="food_maximum_calories">Maximum calories:</string>
+    <string name="food_category">Category:</string>
+    <string name="food_tag">Tag:</string>
+
+    <string name="food_got_it">Got it</string>
+    <string name="food_help_home">On this screen, you can search for a food, to view food calories, click on
+    the title. You can also view a list of previously saved food list by pressing \'Favourites\' button.</string>
+    <string name="food_help_detail">
+        You can view energy and other detail of food on this screen.
+        You can add the current item into favourite list, by pressing \'Add to Favourites\' button.
+        You can remove the current item from favourite list, by pressing \'Remove from Favourites\' button.
+    </string>
+    <string name="food_ingredient_detail_screen">Ingredient details screen</string>
+    <string name="food_help_detail_screen">From the list of ingredients, you will be redirected here. On this screen you can see the nutrition of an ingredient.</string>
+</resources>

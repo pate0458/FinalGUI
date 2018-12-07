@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="food_app_please_wait">कृपया प्रतीक्षा करें…</string>
+    <string name="food_search_food">घटक नाम दर्ज करें…</string>
+
+    <string name="food_search_btn">खोज</string>
+    <string name="food_fav_btn">पसंदीदा</string>
+
+    <string name="food_add_to_string_favorites">पसंदीदा में जोड़े</string>
+    <string name="food_remove_from_favorites">पसंदीदा से निकालें</string>
+
+    <string name="food_msg_added">संघटक को पसंदीदा में जोड़ा गया!</string>
+    <string name="food_msg_not_added">पसंदीदा में संघटक को जोड़ने में विफल!</string>
+    <string name="food_msg_removed">संघटक को पसंदीदा से हटा दीया गया!</string>
+    <string name="food_msg_not_removed">पसंदीदा से संघटक को हटाने में विफल!</string>
+    <string name="food_none_saved_msg">Add ingredients to favorites to view statistics!</string>
+
+    <string name="food_statistics">आंकड़े</string>
+    <string name="food_help">मदद</string>
+    <string name="food_energy">ऊर्जा</string>>
+    <string name="food_enter_tag_to_set">सेट करने के लिए टैग दर्ज करें</string>
+    <string name="food_cancel">रद्द करें</string>
+    <string name="food_ok">ठीक</string>
+    <string name="food_total_data">कुल सहेजे गए तत्व:</string>
+    <string name="food_total_calories">कुल कैलोरी:</string>
+    <string name="food_minimum_calories">न्यूनतम कैलोरी:</string>
+    <string name="food_average_calories">औसत कैलोरी:</string>
+    <string name="food_maximum_calories">अधिकतम कैलोरी:</string>
+    <string name="food_category">वर्ग:</string>
+    <string name="food_tag">टैग:</string>
+
+    <string name="food_got_it">ठीक है</string>
+    <string name="food_help_home">
+        इस स्क्रीन पर, आप भोजन कैलोरी देखने के लिए भोजन की खोज कर सकते हैं, पर क्लिक करें
+     शीर्षक। आप \'पसंदीदा\' बटन दबाकर पहले से सहेजी गई खाद्य सूची की एक सूची भी देख सकते हैं।
+    </string>
+    <string name="food_help_detail">
+        आप इस स्क्रीन पर ऊर्जा और भोजन के अन्य विवरण देख सकते हैं।
+         आप \'पसंदीदा में जोड़ें\' बटन दबाकर वर्तमान आइटम को पसंदीदा सूची में जोड़ सकते हैं।
+         आप \'पसंदीदा से निकालें\' बटन दबाकर, मौजूदा आइटम को पसंदीदा सूची से हटा सकते हैं।
+    </string>
+    <string name="food_ingredient_detail_screen">संघटक विवरण स्क्रीन</string>
+    <string name="food_help_detail_screen">घटक की सूची से, आपको यहां रीडायरेक्ट किया जाएगा। इस स्क्रीन पर आप एक घटक के पोषण देख सकते हैं।</string>
+</resources>
