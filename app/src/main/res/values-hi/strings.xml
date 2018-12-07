@@ -42,4 +42,43 @@
     </string>
     <string name="food_ingredient_detail_screen">संघटक विवरण स्क्रीन</string>
     <string name="food_help_detail_screen">घटक की सूची से, आपको यहां रीडायरेक्ट किया जाएगा। इस स्क्रीन पर आप एक घटक के पोषण देख सकते हैं।</string>
+    <string name="cbc_please_wait">कृपया प्रतीक्षा करें…</string>
+
+    <string name="cbc_news_feed">समाचार फ़ीड</string>
+    <string name="cbc_favourites">पसंदीदा</string>
+
+    <string name="cbc_published_date">प्रकाशित तिथि:</string>
+
+    <string name="cbc_detail_desc">विवरण:</string>
+    <string name="cbc_category">वर्ग:</string>
+    <string name="cbc_author">लेखक:</string>
+
+    <string name="cbc_save_article">लेख सहेजें</string>
+    <string name="cbc_remove_article">लेख निकालें</string>
+    <string name="cbc_view_in_browser">ब्राउजर में देखें</string>
+
+    <string name="cbc_msg_added">लेख सहेजा गया!</string>
+    <string name="cbc_msg_not_added">लेख सहेजने में विफल!</string>
+    <string name="cbc_msg_removed">लेख हटा दिया गया!</string>
+    <string name="cbc_msg_not_removed">लेख को हटाने में विफल!</string>
+
+    <string name="cbc_no_saved_articles">सहेजे गए लेखों की संख्या</string>
+
+    <string name="cbc_help">मदद</string>
+    <string name="cbc_stats">आंकड़े</string>
+
+
+    <string name="cbc_none_saved_msg">आंकड़े देखने के लिए लेख सहेजें!</string>
+
+    <string name="cbc_max_count">अधिकतम शब्द गणना</string>
+    <string name="cbc_min_count">न्यूनतम शब्द गणना</string>
+    <string name="cbc_avg_count">औसत शब्द गणना</string>
+
+    <string name="cbc_help_ok">ठीक है</string>
+    <string name="cbc_help_home">नवीनतम समाचार शीर्षक लाने और देखने के लिए \'समाचार फ़ीड\' बटन पर क्लिक करें।
+     लेख पढ़ने के लिए शीर्षक पर क्लिक करें। \n
+     सहेजे गए लेख देखने के लिए \'पसंदीदा\' बटन पर क्लिक करें।</string>
+    <string name="cbc_help_detail">पूर्ण लेख ऑनलाइन पढ़ने के लिए \'ब्राउज़र में देखें\' बटन पर क्लिक करें। \n
+     लेख को बाद में देखने के लिए वर्तमान समाचार आलेख को सहेजने के लिए \'लेख सहेजें\' पर क्लिक करें। \n
+     वर्तमान समाचार आलेख को हटाने के लिए \'लेख निकालें\' पर क्लिक करें।</string>
 </resources>

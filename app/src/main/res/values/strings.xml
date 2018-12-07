@@ -42,4 +42,44 @@
     </string>
     <string name="food_ingredient_detail_screen">Ingredient details screen</string>
     <string name="food_help_detail_screen">From the list of ingredients, you will be redirected here. On this screen you can see the nutrition of an ingredient.</string>
+    <string name="cbc_app_name" translatable="false">CBC News Reader</string>
+
+    <string name="cbc_please_wait">Please wait…</string>
+
+    <string name="cbc_news_feed">News feed</string>
+    <string name="cbc_favourites">Favourites</string>
+
+    <string name="cbc_published_date">Published date:</string>
+
+    <string name="cbc_detail_desc">Description:</string>
+    <string name="cbc_category">Category:</string>
+    <string name="cbc_author">Author:</string>
+
+    <string name="cbc_save_article">Save article</string>
+    <string name="cbc_remove_article">Remove article</string>
+    <string name="cbc_view_in_browser">View in browser</string>
+
+    <string name="cbc_msg_added">Article saved offline!</string>
+    <string name="cbc_msg_not_added">Failed to save article!</string>
+    <string name="cbc_msg_removed">Article removed!</string>
+    <string name="cbc_msg_not_removed">Failed to remove article from!</string>
+
+    <string name="cbc_no_saved_articles">No. of saved articles</string>
+
+    <string name="cbc_help">Help</string>
+    <string name="cbc_stats">Statistics</string>
+
+    <string name="cbc_none_saved_msg">Save articles to view statistics!</string>
+
+    <string name="cbc_max_count">Maximum word count</string>
+    <string name="cbc_min_count">Minimum word count</string>
+    <string name="cbc_avg_count">Average word count</string>
+
+    <string name="cbc_help_ok">OK</string>
+    <string name="cbc_help_home">Click on the \'News feed\' button to fetch and view latest news titles.
+    Click on a title to read article.\n
+    Click on the \'Favourites\' button to view saved articles.</string>
+    <string name="cbc_help_detail">Click on the \'View in browser\' button to read full article online.\n
+    Click on \'Save article\' to save the current news article to view article later on.\n
+    Click on \'Remove article\' to remove the current news article.</string>
 </resources>

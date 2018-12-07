@@ -34,6 +34,23 @@
         <activity
             android:name=".food_nut_db.FoodStatsActivity"
             android:label="@string/food_app_name" />
+        <activity
+            android:name=".cbc_news_reader.CBCMainActivity"
+            android:label="@string/cbc_app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".cbc_news_reader.CBCFavActivity"
+            android:label="@string/cbc_app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".cbc_news_reader.CBCNewsDetailActivity"
+            android:label="@string/cbc_app_name"
+            android:screenOrientation="portrait" />
+
+        <activity
+            android:name=".cbc_news_reader.CBCStatsActivity"
+            android:label="Statistics"
+            android:screenOrientation="portrait" />
     </application>
 
 </manifest>
